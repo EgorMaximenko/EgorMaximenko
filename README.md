@@ -1,6 +1,6 @@
 I am a math professor at Instituto Politecnico Nacional (Mexico).
-I am working on several mathematical projects involving matrices and operators,
-I am going to upload to GitHub some numerical tests of my papers.
+
+I am uploading to GitHub some tests of my math papers.
 
 https://www.egormaximenko.com
 
